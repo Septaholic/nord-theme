@@ -4,6 +4,7 @@
     "version": "1.0",
     "name": "Nord",
     "transparency_mode": 0
+    "updater": "https:\/\/raw.githubusercontent.com\/Septaholic\/nord-theme\/main\/Nord.json"
   },
   "background": {},
   "simple_colors": {
