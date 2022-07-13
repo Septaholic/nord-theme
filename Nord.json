@@ -15,6 +15,9 @@
     "active_channel": -11774358,
     "accent": -8281663
   },
+  "fonts": {
+      "*": "https:\/\/raw.githubusercontent.com\/Septaholic\/nord-theme\/main\/Inter-Regular.ttf"
+  },
   "colors": {
     "primary_dark_630": -12893614
   },
