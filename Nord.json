@@ -1,0 +1,28 @@
+{
+  "manifest": {
+    "author": "Septaholic",
+    "version": "1.0",
+    "name": "Nord",
+    "transparency_mode": 0
+  },
+  "background": {},
+  "simple_colors": {
+    "background_secondary": -13749184,
+    "background": -12366754,
+    "statusbar": -13749184,
+    "mention_highlight": -1324149,
+    "input_background": -13749184,
+    "active_channel": -11774358,
+    "accent": -8281663
+  },
+  "colors": {
+    "primary_dark_630": -12893614
+  },
+  "drawable_tints": {
+    "ic_status_online_16dp": -6046068,
+    "ic_status_idle_16dp": -1324149,
+    "ic_status_dnd_16dp": -4234902,
+    "ic_status_invisible_16dp": -7760734,
+    "ic_mobile": -6046068
+  }
+}
